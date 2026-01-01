@@ -1511,7 +1511,7 @@ jiskuketket3
 izkuketket
 Tongkonan16
 jiskukirkur3
-jiskukirkur2
+izkuketket
 jiskukirkur
 jiskukirkir
 saehanaes
